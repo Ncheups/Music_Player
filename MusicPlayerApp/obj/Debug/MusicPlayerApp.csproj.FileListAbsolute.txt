@@ -1,0 +1,15 @@
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojAssemblyReference.cache
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.MusicPlayerApp.resources
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.cache
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.CoreCompileInputs.cache
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+D:\visual studio\project\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
